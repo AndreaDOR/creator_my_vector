@@ -1,5 +1,11 @@
-﻿#include <iostream>
+﻿ 
+#include <iostream>
+#include "myVector.h"
+#include "myVector2.h"
+#include "test.h"
 int main()
 {
-    std::cout << "Hello World!\n";
-}
+   
+	testMyVector();
+} 
+
